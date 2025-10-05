@@ -1,0 +1,7 @@
+{
+    "funcionarios":[
+        {"id": 1, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3},
+        {"id": 2, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3},
+        {"id": 3, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3}
+    ]
+}
