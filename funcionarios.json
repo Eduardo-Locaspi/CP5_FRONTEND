@@ -1,7 +1,7 @@
 {
     "funcionarios":[
-        {"id": 1, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3},
-        {"id": 2, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3},
-        {"id": 3, "nome":"Eduardo","cargo": 1,"setor": 4,"turno": 2,"salario": 3}
+        {"id": 1, "nome":"Eduardo","cargo": "Analista","setor": "RH","turno": "manhã","salario": 3200},
+        {"id": 2, "nome":"João","cargo": "Pesquisador","setor": "Pesquisa","turno": "tarde","salario": 3500},
+        {"id": 3, "nome":"Maria","cargo": "Atendente","setor": "Comunicações","turno": "tarde","salario": 2000}
     ]
 }
