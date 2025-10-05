@@ -4,8 +4,8 @@ export default function ListaFuncionarios() {
 
     
     return (
-        <main>
-            Funcionários
+        <main className="h-screen flex flex-col items-center p-5  ">
+            Funcionários do HC
         </main>
     )
 }
