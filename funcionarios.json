@@ -1,7 +1,28 @@
 {
-    "funcionarios":[
-        {"id": 1, "nome":"Eduardo","cargo": "Analista","setor": "RH","turno": "manhã","salario": 3200},
-        {"id": 2, "nome":"João","cargo": "Pesquisador","setor": "Pesquisa","turno": "tarde","salario": 3500},
-        {"id": 3, "nome":"Maria","cargo": "Atendente","setor": "Comunicações","turno": "tarde","salario": 2000}
-    ]
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Eduardo",
+      "cargo": "Analista",
+      "setor": "RH",
+      "turno": "manhã",
+      "salario": 3200
+    },
+    {
+      "id": 2,
+      "nome": "João",
+      "cargo": "Pesquisador",
+      "setor": "Pesquisa",
+      "turno": "tarde",
+      "salario": 3500
+    },
+    {
+      "id": 3,
+      "nome": "Maria",
+      "cargo": "Atendente",
+      "setor": "Comunicações",
+      "turno": "tarde",
+      "salario": 2000
+    }
+  ]
 }

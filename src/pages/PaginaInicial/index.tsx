@@ -12,18 +12,18 @@ export default function PaginaInicial(){
 
                 <div className="w-6/12 text-center"> {/*Texto*/ }
                     <h3 className="text-3xl ">Plataforma de Funcionários HC</h3>
-                    <p>Com A Plataforma de Funcionários HC você poderá ter uma visão geral dos funcionários do HC.</p>
+                    <p className="text-2xl p-5">Com A Plataforma de Funcionários HC você poderá ter uma visão geral dos funcionários do HC. Confira os benefícios de se usar a plataforma:</p>
                     <ul className="text-2xl p-5">
-                        <li>Fácil</li>
-                        <li>motivo 2</li>
-                        <li>motivo 3</li>
+                        <li>Facilidade</li>
+                        <li>Praticidade</li>
                     </ul>
 
                     <Link to={'/listafuncionario'} className="bg-blue-900 p-5 py-3 text-white text-2xl rounded-md hover:underline">Visualizar Funcionários</Link>
+            
                 </div>
                 
                 {/*imagem*/ }
-                <img src="public\vite.svg" alt="" className="items-center"/>
+                <img src="public\imagem-platafromafuncionario.webp" alt="" className="items-center"/>
 
             </section>
         </main>
